@@ -9,7 +9,7 @@ import {
 import { toast } from "react-toastify";
 
 const Card = ({ product }) => {
-  const {  title, image, description, price } = product;
+  const { title, image, description, price } = product;
 
   const handleAddToCart = () => {
     const cartItems = JSON.parse(localStorage.getItem("cartItems")) || [];
@@ -20,7 +20,7 @@ const Card = ({ product }) => {
 
   return (
     <CardContainer>
-      <CardImage src={image} alt={title} />
+      <CardImage src={image} alt={title} loading="lazy" />
       <CardTitle>{title}</CardTitle>
       <CardDescription>{description}</CardDescription>
       <CardPrice>${price}</CardPrice>

@@ -1,5 +1,71 @@
 import styled from "styled-components";
 
+
+//Header styles
+
+export const HeaderWrapper = styled.div`
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 15px;
+`;
+
+export const Name = styled.h1`
+  margin: 0;
+  font-size: 1.5rem;
+
+  @media (min-width: 768px) {
+    font-size: 2rem;
+  }
+`;
+
+export const ButtonWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+  }
+`;
+
+export const Button = styled.button`
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s, color 0.3s;
+
+  @media (min-width: 768px) {
+    font-size: 1.2rem;
+  }
+`;
+
+export const LoginButton = styled(Button)`
+  background-color: #0074cc;
+  color: white;
+  &:hover {
+    background-color: #0055a4;
+    color: #fff;
+  }
+`;
+
+export const LogoutButton = styled(Button)`
+  background-color: #9c0e0e;
+  color: white;
+  &:hover {
+    background-color: #670d10;
+    color: #fff;
+  }
+`;
+
+// Product Items
 export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
