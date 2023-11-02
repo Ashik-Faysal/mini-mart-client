@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     <HeaderWrapper>
-      <Name>Name</Name>
+      <Name>Mini Mart</Name>
       <ButtonWrapper>
         {isLoggedIn ? (
           <LogoutButton onClick={handleLogout}>Logout</LogoutButton>
