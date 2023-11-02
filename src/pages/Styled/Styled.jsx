@@ -76,7 +76,8 @@ export const CardContainer = styled.div`
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   padding: 16px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: none;
+  box-shadow: 0 7px 10px rgba(222, 67, 67, 0.1);
   transition: transform 0.2s ease;
 
   &:hover {
@@ -86,7 +87,9 @@ export const CardContainer = styled.div`
 
 export const CardImage = styled.img`
   max-width: 100%;
-  height: auto;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
 `;
 
 export const CardTitle = styled.h2`
@@ -103,9 +106,15 @@ export const CardPrice = styled.p`
   font-size: 16px;
   font-weight: bold;
 `;
+
 export const Div = styled.div`
-  margin: 40px 100px;
+  margin: 2% 5%; 
+
+  @media (max-width: 768px) {
+    margin: 2% 3%;
+  }
 `;
+
 export const PaginationContainer = styled.div`
   display: flex;
   align-items: center;

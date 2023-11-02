@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "title": "Mobile Phone 1",
-    "image": "mobile1.jpg",
+    "title": "MI note-40",
+    "image": "https://i.ibb.co/6rdS6j1/8345c393ly1g7anwr4e8rj21hc0u01kx.png",
     "description": "The latest mobile phone with amazing features.",
     "price": 599.99,
     "category": "mobile"
   },
   {
     "id": 2,
-    "title": "Drone 1",
-    "image": "drone1.jpg",
+    "title": "Drone",
+    "image": "https://i.ibb.co/y8FXtfq/images-1.png",
     "description": "High-quality drone for aerial photography and videography.",
     "price": 799.99,
     "category": "drone"
   },
   {
     "id": 3,
-    "title": "Laptop 1",
-    "image": "laptop1.jpg",
+    "title": "HP Laptop",
+    "image": "https://i.ibb.co/zHtycpM/open-laptop-in-dark-murjp1nk4lp1.png",
     "description": "Powerful laptop for all your computing needs.",
     "price": 999.99,
     "category": "laptop"
   },
   {
     "id": 4,
-    "title": "Tablet 1",
-    "image": "tablet1.jpg",
+    "title": "Vivo Tablet",
+    "image": "https://i.ibb.co/nmZsjds/images-2.png",
     "description": "Sleek and compact tablet for on-the-go productivity.",
     "price": 299.99,
     "category": "tablet"
   },
   {
     "id": 5,
-    "title": "MacBook 1",
-    "image": "macbook1.jpg",
+    "title": "Built in Pc",
+    "image": "https://i.ibb.co/KVs1D2f/960x0-10.png",
     "description": "Elegant and efficient MacBook for Apple enthusiasts.",
     "price": 1299.99,
-    "category": "macbook"
+    "category": "computer"
   },
   {
     "id": 6,
-    "title": "Camera 1",
-    "image": "camera1.jpg",
+    "title": "Cannon HD",
+    "image": "https://i.ibb.co/7z9cRwh/Untitled-1.png",
     "description": "Professional-grade camera for capturing stunning photos and videos.",
     "price": 1199.99,
     "category": "camera"
   },
   {
     "id": 7,
-    "title": "Mobile Phone 2",
-    "image": "mobile2.jpg",
+    "title": "Samsung-s22-ultra",
+    "image": "https://i.ibb.co/kKXnyGn/samsung-s22-ultra-down.png",
     "description": "A budget-friendly mobile phone with essential features.",
     "price": 199.99,
     "category": "mobile"
@@ -58,47 +58,47 @@
   {
     "id": 8,
     "title": "Drone 2",
-    "image": "drone2.jpg",
+    "image": "https://i.ibb.co/djGp2Nm/Types-of-drones-and-their-differ.png",
     "description": "Entry-level drone for beginners and hobbyists.",
     "price": 299.99,
     "category": "drone"
   },
   {
     "id": 9,
-    "title": "Laptop 2",
-    "image": "laptop2.jpg",
+    "title": "Asus Laptop",
+    "image": "https://i.ibb.co/JnXpRNY/Untitled-2.png",
     "description": "Affordable laptop for everyday computing tasks.",
     "price": 499.99,
     "category": "laptop"
   },
   {
     "id": 10,
-    "title": "Tablet 2",
-    "image": "tablet2.jpg",
+    "title": "Dell tab pro",
+    "image": "https://i.ibb.co/NL4VgmN/photo-1623126908029-58cb08a2b272.png",
     "description": "Family-friendly tablet for entertainment and education.",
     "price": 249.99,
     "category": "tablet"
   },
   {
     "id": 11,
-    "title": "MacBook 2",
-    "image": "macbook2.jpg",
+    "title": "Ultra gaming",
+    "image": "https://i.ibb.co/YyvrqxV/How-To-Build-A-Gaming-PC16704219.png",
     "description": "Sleek and powerful MacBook for professionals.",
     "price": 1699.99,
-    "category": "macbook"
+    "category": "computer"
   },
   {
     "id": 12,
-    "title": "Camera 2",
-    "image": "camera2.jpg",
+    "title": "DSLR camera",
+    "image": "https://i.ibb.co/w6TRPpZ/blurred-lights-dslr-camera-photo.png",
     "description": "Compact and versatile camera for travel and adventure.",
     "price": 899.99,
     "category": "camera"
   },
   {
     "id": 13,
-    "title": "Mobile Phone 3",
-    "image": "mobile3.jpg",
+    "title": "Iphone15 pro",
+    "image": "https://i.ibb.co/VwRmHMV/iphone-15-15pro-01.png",
     "description": "Mid-range mobile phone with great performance.",
     "price": 349.99,
     "category": "mobile"
@@ -106,185 +106,73 @@
   {
     "id": 14,
     "title": "Drone 3",
-    "image": "drone3.jpg",
+    "image": "https://i.ibb.co/bzz3SVM/DJI-FPV-Fly-More-Combo-2.png",
     "description": "Advanced drone with GPS and obstacle avoidance.",
     "price": 1299.99,
     "category": "drone"
   },
   {
     "id": 15,
-    "title": "Laptop 3",
-    "image": "laptop3.jpg",
+    "title": "Apple Laptop",
+    "image": "https://i.ibb.co/XsdTGnT/images.png",
     "description": "Ultra-thin laptop with a high-resolution display.",
     "price": 1299.99,
     "category": "laptop"
   },
   {
     "id": 16,
-    "title": "Tablet 3",
-    "image": "tablet3.jpg",
+    "title": "Table lite ultra",
+    "image": "https://i.ibb.co/gZ99nym/tablet-928.png",
     "description": "Versatile tablet with a stylus for creative tasks.",
     "price": 399.99,
     "category": "tablet"
   },
   {
     "id": 17,
-    "title": "MacBook 3",
-    "image": "macbook3.jpg",
+    "title": "RGB Pc",
+    "image": "https://i.ibb.co/Dfg1YqT/images-1.png",
     "description": "Top-of-the-line MacBook for demanding workloads.",
     "price": 2199.99,
-    "category": "macbook"
+    "category": "computer"
   },
   {
     "id": 18,
-    "title": "Camera 3",
-    "image": "camera3.jpg",
+    "title": "Video Camera",
+    "image": "https://i.ibb.co/QQn9Yx3/images.png",
     "description": "Mirrorless camera with interchangeable lenses.",
     "price": 1499.99,
     "category": "camera"
   },
   {
     "id": 19,
-    "title": "Mobile Phone 4",
-    "image": "mobile4.jpg",
+    "title": "Pixel Lite 3",
+    "image": "https://i.ibb.co/GJF1WHk/Pixel-Portfolio-Bay-Hazel-v-Zb6-Ki.png",
     "description": "Compact mobile phone with long battery life.",
     "price": 249.99,
     "category": "mobile"
   },
   {
     "id": 20,
-    "title": "Drone 4",
-    "image": "drone4.jpg",
-    "description": "Foldable drone for portability and convenience.",
-    "price": 499.99,
-    "category": "drone"
-  },
-  {
-    "id": 21,
-    "title": "Laptop 4",
-    "image": "laptop4.jpg",
-    "description": "Gaming laptop with high-performance graphics.",
-    "price": 1599.99,
-    "category": "laptop"
-  },
-  {
-    "id": 22,
-    "title": "Tablet 4",
-    "image": "tablet4.jpg",
-    "description": "Rugged tablet designed for outdoor use.",
-    "price": 349.99,
-    "category": "tablet"
-  },
-  {
-    "id": 23,
-    "title": "MacBook 4",
-    "image": "macbook4.jpg",
-    "description": "Slim and lightweight MacBook for students.",
-    "price": 999.99,
-    "category": "macbook"
-  },
-  {
-    "id": 24,
-    "title": "Camera 4",
-    "image": "camera4.jpg",
-    "description": "High-resolution DSLR camera for professionals.",
-    "price": 1799.99,
-    "category": "camera"
-  },
-  {
-    "id": 25,
-    "title": "Mobile Phone 5",
-    "image": "mobile5.jpg",
+    "title": "Pixel pro 5g",
+    "image": "https://i.ibb.co/cv8cpKH/Untitled.png",
     "description": "5G-enabled mobile phone with a large display.",
     "price": 699.99,
     "category": "mobile"
   },
   {
-    "id": 26,
-    "title": "Drone 5",
-    "image": "drone5.jpg",
-    "description": "Professional-grade drone for aerial photography and mapping.",
-    "price": 1999.99,
-    "category": "drone"
-  },
-  {
-    "id": 27,
-    "title": "Laptop 5",
-    "image": "laptop5.jpg",
-    "description": "High-performance laptop for gaming and content creation.",
-    "price": 1699.99,
-    "category": "laptop"
-  },
-  {
-    "id": 28,
-    "title": "Tablet 5",
-    "image": "tablet5.jpg",
-    "description": "Convertible tablet with a detachable keyboard for productivity.",
-    "price": 449.99,
-    "category": "tablet"
-  },
-  {
-    "id": 29,
-    "title": "MacBook 5",
-    "image": "macbook5.jpg",
-    "description": "Thin and powerful MacBook with a retina display.",
-    "price": 1899.99,
-    "category": "macbook"
-  },
-  {
-    "id": 30,
-    "title": "Camera 5",
-    "image": "camera5.jpg",
-    "description": "Full-frame DSLR camera for professional photography and videography.",
-    "price": 2499.99,
-    "category": "camera"
-  },
-  {
-    "id": 31,
-    "title": "Mobile Phone 6",
-    "image": "mobile6.jpg",
+    "id": 21,
+    "title": "Nokia 8",
+    "image": "https://i.ibb.co/j5R6J99/nokia-8-3-og-1024x538.png",
     "description": "Affordable smartphone with a large battery capacity.",
     "price": 249.99,
     "category": "mobile"
   },
-  {
-    "id": 32,
-    "title": "Drone 6",
-    "image": "drone6.jpg",
-    "description": "Foldable drone with 4K camera and GPS navigation.",
-    "price": 599.99,
-    "category": "drone"
-  },
-  {
-    "id": 33,
-    "title": "Laptop 6",
-    "image": "laptop6.jpg",
-    "description": "Sleek ultrabook for professionals on the go.",
-    "price": 1199.99,
-    "category": "laptop"
-  },
-  {
-    "id": 34,
-    "title": "Tablet 6",
-    "image": "tablet6.jpg",
-    "description": "Kids' educational tablet with parental controls.",
-    "price": 199.99,
-    "category": "tablet"
-  },
-  {
-    "id": 35,
-    "title": "MacBook 6",
-    "image": "macbook6.jpg",
-    "description": "The latest MacBook with M1 chip for incredible performance.",
-    "price": 1499.99,
-    "category": "macbook"
-  },
-  {
-    "id": 36,
-    "title": "Camera 6",
-    "image": "camera6.jpg",
-    "description": "Compact mirrorless camera for vlogging and content creation.",
+   {
+    "id":22,
+    "title": "Laxary watch ",
+    "image": "https://i.ibb.co/7NMSr7M/2431.jpg",
+    "description": "Compact mirrorless watch for vlogging and content creation.",
     "price": 899.99,
-    "category": "camera"
+    "category": "watch"
   }
 ]
