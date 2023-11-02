@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-import styled from "styled-components";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import ReactPaginate from "react-paginate";
 import Card from "./Card";
 import {
@@ -58,7 +59,6 @@ const ProductCard = () => {
     (currentPage + 1) * itemsPerPage
   );
 
-  // Check if the number of filtered items is less than or equal to 8
   const shouldRenderPagination = filteredItems.length > itemsPerPage;
 
   return (
@@ -106,6 +106,7 @@ const ProductCard = () => {
           disabledClassName={"pagination-disabled"}
         />
       )}
+      <ToastContainer />
     </>
   );
 };
