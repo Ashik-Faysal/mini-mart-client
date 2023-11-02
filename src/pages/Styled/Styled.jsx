@@ -16,10 +16,13 @@ export const Container = styled.div`
 `;
 
 export const SortOptions = styled.div`
-  display: flex;
-  justify-content: space-between;
   width: 100%;
   margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
 `;
 
 export const Select = styled.select`
@@ -32,6 +35,7 @@ export const Select = styled.select`
 export const Label = styled.label`
   font-weight: bold;
   font-size: 16px;
+  margin-top: 15px;
 `;
 
 export const Option = styled.option`
@@ -108,7 +112,7 @@ export const CardPrice = styled.p`
 `;
 
 export const Div = styled.div`
-  margin: 2% 5%; 
+  margin: 2% 5%;
 
   @media (max-width: 768px) {
     margin: 2% 3%;
