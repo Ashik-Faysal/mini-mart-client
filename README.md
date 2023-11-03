@@ -1,7 +1,7 @@
 
 <!-- README.md -->
 # Mini Mart
-# Live Link: https://mini-mart-client.vercel.app/
+# [Live Demo](https://mini-mart-client.vercel.app/)
 
 <img src="./src/assets/readme.png" alt="Project Image" />
 
